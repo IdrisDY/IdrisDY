@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IdrisDY
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning VueJs, NodeJs, python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning VueJs, NodeJs,Python,PHP.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me  - Send me a email at disuade657@gmail.com
 
 <!---
