@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning VueJs, NodeJs,Python,PHP.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me  - Send me a email at disuade657@gmail.com
+- 📫 How to reach me  - Send me a email at idrisadekunle726@gmail.com
 
 <!---
 IdrisDY/IdrisDY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
